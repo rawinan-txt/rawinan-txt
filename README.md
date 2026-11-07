@@ -88,35 +88,31 @@ A few projects and ideas I'm developing as I grow my skills.
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=rawinan-txt&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=github_dark"
+      srcset="https://github-stats-extended.vercel.app/api?username=rawinan-txt&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=github_dark"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=rawinan-txt&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=default"
+      srcset="https://github-stats-extended.vercel.app/api?username=rawinan-txt&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=default"
     />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=rawinan-txt&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=default" alt="GitHub statistics" />
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=rawinan-txt&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=default" alt="GitHub statistics" />
   </picture>
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rawinan-txt&layout=compact&hide_border=true&langs_count=6&theme=github_dark"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=rawinan-txt&layout=compact&hide_border=true&langs_count=6&theme=github_dark"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rawinan-txt&layout=compact&hide_border=true&langs_count=6&theme=default"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=rawinan-txt&layout=compact&hide_border=true&langs_count=6&theme=default"
     />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawinan-txt&layout=compact&hide_border=true&langs_count=6&theme=default" alt="Most used languages" />
+    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rawinan-txt&layout=compact&hide_border=true&langs_count=6&theme=default" alt="Most used languages" />
   </picture>
 </div>
 
 ## `contribution_graph`
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rawinan-txt&bg_color=0d1117&color=58a6ff&line=22c55e&point=ffffff&area=true&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rawinan-txt&bg_color=ffffff&color=24292f&line=16a34a&point=24292f&area=true&hide_border=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rawinan-txt&hide_border=true" alt="GitHub contribution activity graph" />
-  </picture>
+  <img src="https://ghchart.rshah.org/22c55e/rawinan-txt" alt="GitHub contribution graph for rawinan-txt" width="100%" />
 </p>
 
 ## `pacman_eating_my_contributions`
