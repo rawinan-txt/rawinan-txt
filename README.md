@@ -109,6 +109,26 @@ A few projects and ideas I'm developing as I grow my skills.
   </picture>
 </div>
 
+## `contribution_graph`
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rawinan-txt&bg_color=0d1117&color=58a6ff&line=22c55e&point=ffffff&area=true&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rawinan-txt&bg_color=ffffff&color=24292f&line=16a34a&point=24292f&area=true&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rawinan-txt&hide_border=true" alt="GitHub contribution activity graph" />
+  </picture>
+</p>
+
+## `pacman_eating_my_contributions`
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rawinan-txt/rawinan-txt/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rawinan-txt/rawinan-txt/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/rawinan-txt/rawinan-txt/output/pacman-contribution-graph.svg" alt="Pac-Man eating GitHub contributions" />
+  </picture>
+</p>
+
 ## `currently_learning`
 
 - Building backend foundations with Node.js and Express
