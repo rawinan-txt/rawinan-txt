@@ -38,10 +38,6 @@ I'm exploring the intersection of **software development, Quality Assurance (QA)
 *Tools and technologies I'm learning or working with.*
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,nextjs,react,mysql,git,github,vscode&theme=light" alt="Technology icons — light" />
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,nextjs,react,mysql,git,github,vscode&theme=dark" alt="Technology icons — dark" />
 </p>
 
