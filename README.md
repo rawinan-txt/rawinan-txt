@@ -109,11 +109,6 @@ A few projects and ideas I'm developing as I grow my skills.
   </picture>
 </div>
 
-## `contribution_graph`
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/22c55e/rawinan-txt" alt="GitHub contribution graph for rawinan-txt" width="100%" />
-</p>
 
 ## `pacman_eating_my_contributions`
 
