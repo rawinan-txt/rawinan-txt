@@ -62,13 +62,6 @@ A few projects and ideas I'm developing as I grow my skills.
       <a href="https://github.com/rawinan-txt?tab=repositories">Explore my repositories →</a>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🥗 KinYang (กินยัง)</h3>
-      <p>An AI-assisted food and nutrition tracking concept that helps users log meals, estimate nutrition, and track personal goals.</p>
-      <p><strong>Focus:</strong> AI integration · Data · Product thinking</p>
-      <a href="https://github.com/rawinan-txt?tab=repositories">Explore my repositories →</a>
-    </td>
     <td width="50%" valign="top">
       <h3>🔍 More experiments</h3>
       <p>Small experiments, coursework, and learning projects will live in my repositories as I continue exploring software and technology.</p>
