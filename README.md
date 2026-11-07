@@ -68,7 +68,7 @@ A few projects and ideas I'm developing as I grow my skills.
       <h3>🐲 Personal Portfolio</h3>
       <p>A personal portfolio showcasing my projects, technical skills, and learning journey as a second-year ICT student at Mahidol University, currently seeking internship opportunities.</p>
       <p><strong>Focus:</strong> Web Development · UI/UX · QA · Project Management</p>
-      <a href="https://github.com/rawinan-txt/Rawinan-portfolio">View Project →</a>
+      <a href="https://github.com/rawinan-txt/Rawinan-portfolio2">View Project →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🔍 More Experiments</h3>
