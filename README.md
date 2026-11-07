@@ -51,28 +51,30 @@ A few projects and ideas I'm developing as I grow my skills.
   <tr>
     <td width="50%" valign="top">
       <h3>📚 Student Life Manager</h3>
-      <p>A personal productivity web app concept for managing academic schedules, finances, study goals, and everyday student life.</p>
-      <p><strong>Focus:</strong> UI/UX · Frontend · Practical features</p>
-      <a href="https://github.com/rawinan-txt?tab=repositories">Explore my repositories →</a>
+      <p>A personal productivity web app for managing academic schedules, finances, study goals, and everyday student life.</p>
+      <p><strong>Focus:</strong> UI/UX · Frontend · Practical Features</p>
+      <a href="https://github.com/rawinan-txt/student-life-manager">View Project →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🏢 CondoFlow</h3>
-      <p>A condominium management system concept focused on role-based workflows and the needs of owners, tenants, and administrators.</p>
-      <p><strong>Focus:</strong> Requirements · System design · Database · QA</p>
-      <a href="https://github.com/rawinan-txt?tab=repositories">Explore my repositories →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🐲 Portfolio</h3>
-      <p>Personal portfolio of Rawinan Bunsai, a second-year ICT student at Mahidol University, looking for an internship in QA, Ba, Pm or Se.</p>
-      <p><strong>Focus:</strong> Requirements · System design · Database · QA</p>
-      <a href="https://github.com/rawinan-txt?tab=repositories">Explore my repositories →</a>
+      <p>A condominium management system focused on role-based workflows and the needs of owners, tenants, and administrators.</p>
+      <p><strong>Focus:</strong> Requirements · System Design · Database · QA</p>
+      <a href="https://github.com/rawinan-txt?tab=repositories">Explore Project →</a>
     </td>
   </tr>
+
+  <tr>
     <td width="50%" valign="top">
-      <h3>🔍 More experiments</h3>
-      <p>Small experiments, coursework, and learning projects will live in my repositories as I continue exploring software and technology.</p>
-      <p><strong>Focus:</strong> Continuous learning</p>
-      <a href="https://github.com/rawinan-txt?tab=repositories">Browse all repositories →</a>
+      <h3>🐲 Personal Portfolio</h3>
+      <p>A personal portfolio showcasing my projects, technical skills, and learning journey as a second-year ICT student at Mahidol University, currently seeking internship opportunities.</p>
+      <p><strong>Focus:</strong> Web Development · UI/UX · QA · Project Management</p>
+      <a href="https://github.com/rawinan-txt/Rawinan-portfolio">View Project →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔍 More Experiments</h3>
+      <p>Small experiments, coursework, and learning projects as I continue exploring software development and technology.</p>
+      <p><strong>Focus:</strong> Continuous Learning · Problem Solving</p>
+      <a href="https://github.com/rawinan-txt?tab=repositories">Browse All Repositories →</a>
     </td>
   </tr>
 </table>
