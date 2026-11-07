@@ -79,33 +79,53 @@ A few projects and ideas I'm developing as I grow my skills.
   </tr>
 </table>
 
-## `github_activity`
+## `github_analytics`
 
 <div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-stats-extended.vercel.app/api?username=rawinan-txt&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=github_dark"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-stats-extended.vercel.app/api?username=rawinan-txt&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=default"
-    />
-    <img height="165" src="https://github-stats-extended.vercel.app/api?username=rawinan-txt&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=default" alt="GitHub statistics" />
-  </picture>
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=rawinan-txt&layout=compact&hide_border=true&langs_count=6&theme=github_dark"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=rawinan-txt&layout=compact&hide_border=true&langs_count=6&theme=default"
-    />
-    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rawinan-txt&layout=compact&hide_border=true&langs_count=6&theme=default" alt="Most used languages" />
-  </picture>
-</div>
 
+### 3D Contribution Calendar
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rawinan-txt/rawinan-txt/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rawinan-txt/rawinan-txt/main/profile-3d-contrib/profile-season-animate.svg" />
+  <img src="https://raw.githubusercontent.com/rawinan-txt/rawinan-txt/main/profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub contribution calendar" width="100%" />
+</picture>
+
+### Contribution Overview
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rawinan-txt/rawinan-txt/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rawinan-txt/rawinan-txt/main/profile-summary-card-output/default/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/rawinan-txt/rawinan-txt/main/profile-summary-card-output/default/0-profile-details.svg" alt="GitHub contribution overview" width="100%" />
+</picture>
+
+### Languages & Technology
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rawinan-txt/rawinan-txt/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rawinan-txt/rawinan-txt/main/profile-summary-card-output/default/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/rawinan-txt/rawinan-txt/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="Programming languages by repository" width="49%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rawinan-txt/rawinan-txt/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rawinan-txt/rawinan-txt/main/profile-summary-card-output/default/2-most-commit-language.svg" />
+  <img src="https://raw.githubusercontent.com/rawinan-txt/rawinan-txt/main/profile-summary-card-output/default/2-most-commit-language.svg" alt="Most used languages in commits" width="49%" />
+</picture>
+
+### Developer Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rawinan-txt/rawinan-txt/main/profile-summary-card-output/github_dark/4-productive-time.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rawinan-txt/rawinan-txt/main/profile-summary-card-output/default/4-productive-time.svg" />
+  <img src="https://raw.githubusercontent.com/rawinan-txt/rawinan-txt/main/profile-summary-card-output/default/4-productive-time.svg" alt="Developer activity by time of day" width="49%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rawinan-txt/rawinan-txt/main/profile-summary-card-output/github_dark/3-stats.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rawinan-txt/rawinan-txt/main/profile-summary-card-output/default/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/rawinan-txt/rawinan-txt/main/profile-summary-card-output/default/3-stats.svg" alt="GitHub statistics" width="49%" />
+</picture>
+
+</div>
 
 ## `pacman_eating_my_contributions`
 
