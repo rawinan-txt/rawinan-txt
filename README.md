@@ -61,6 +61,12 @@ A few projects and ideas I'm developing as I grow my skills.
       <p><strong>Focus:</strong> Requirements · System design · Database · QA</p>
       <a href="https://github.com/rawinan-txt?tab=repositories">Explore my repositories →</a>
     </td>
+    <td width="50%" valign="top">
+      <h3>🐲 Portfolio</h3>
+      <p>Personal portfolio of Rawinan Bunsai, a second-year ICT student at Mahidol University, looking for an internship in QA, Ba, Pm or Se.</p>
+      <p><strong>Focus:</strong> Requirements · System design · Database · QA</p>
+      <a href="https://github.com/rawinan-txt?tab=repositories">Explore my repositories →</a>
+    </td>
   </tr>
     <td width="50%" valign="top">
       <h3>🔍 More experiments</h3>
