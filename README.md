@@ -18,6 +18,7 @@
   <a href="https://github.com/rawinan-txt?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-Explore-16A34A?style=for-the-badge&logo=github" alt="Repositories" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=rawinan-txt&label=Profile%20Views&color=22c55e&style=for-the-badge" alt="Profile views" />
 </p>
 
 </div>
