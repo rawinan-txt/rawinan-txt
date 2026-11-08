@@ -12,6 +12,9 @@
   <a href="https://github.com/rawinan-txt">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://github.com/rawinan-txt?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  </a>
   <a href="https://rawinan-txt.github.io/Rawinan-portfolio2/">
     <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge" alt="Portfolio" />
   </a>
