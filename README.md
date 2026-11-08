@@ -9,11 +9,11 @@
 </p>
 
 <p>
-  <a href="https://rawinan-txt.github.io/Rawinan-portfolio2/">
-    <img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNNiA0aDdhNSA1IDAgMCAxIC45IDkuOUwxOCAyMGgtMy4zbC0zLjYtNkg5djZINnptMyAzdjRoNGEyIDIgMCAwIDA  gMC00eiIvPjwvc3ZnPg%3D%3D" alt="Portfolio" />
-  </a>
   <a href="https://github.com/rawinan-txt">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+    <a href="https://rawinan-txt.github.io/Rawinan-portfolio2/">
+    <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="https://github.com/rawinan-txt?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-Explore-16A34A?style=for-the-badge&logo=github" alt="Repositories" />
