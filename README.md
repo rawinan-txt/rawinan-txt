@@ -34,7 +34,7 @@
 
 I'm a second-year Information and Communication Technology student at Mahidol University. I design, build and test my own projects, and I use AI tools to work on software, data and business problems.
 
-QA is my first choice for an internship. I'm also interested in software engineering, data analysis and business analysis.
+QA is my first choice for an internship. I'm also interested in business analysis, data analysis and systems analysis.
 
 ## `tech_stack`
 
