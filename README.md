@@ -2,10 +2,10 @@
 
 # Hi, I'm Rawinan
 
-### Second-year ICT student at Mahidol University, looking for a QA internship
+### Second-year ICT student at Mahidol University, looking for an internship
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=ICT+Student+%40+Mahidol+University;Open+to+a+QA+internship+%E2%80%A2+June+to+July+2027;I+design%2C+build+and+test+my+own+projects" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=ICT+Student+%40+Mahidol+University;Open+to+an+internship+%E2%80%A2+June+to+July+2027;I+design%2C+build+and+test+my+own+projects" alt="Typing introduction" />
 </p>
 
 <p>
@@ -22,8 +22,7 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Open%20to-QA%20internship-16A34A?style=flat-square" alt="internship" />
-  <img src="https://img.shields.io/badge/Available-June%20to%20July%202027-16A34A?style=flat-square" alt="Available June to July 2027" />
+  <img src="https://img.shields.io/badge/Open%20to%20internship-June%20to%20July%202027-16A34A?style=flat-square" alt="Open to internship, June to July 2027" />
 </p>
 
 </div>
@@ -34,7 +33,7 @@
 
 I'm a second-year Information and Communication Technology student at Mahidol University. I design, build and test my own projects, and I use AI tools to work on software, data and business problems.
 
-QA is my first choice for an internship. I'm also interested in business analysis, data analysis and systems analysis.
+I'm looking for an internship for June to July 2027. I'm interested in business analysis, data analysis and systems analysis.
 
 ## `tech_stack`
 
