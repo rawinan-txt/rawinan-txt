@@ -22,7 +22,7 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Open%20to-QA%20internship-16A34A?style=flat-square" alt="Open to QA internship" />
+  <img src="https://img.shields.io/badge/Open%20to-QA%20internship-16A34A?style=flat-square" alt="internship" />
   <img src="https://img.shields.io/badge/Available-June%20to%20July%202027-16A34A?style=flat-square" alt="Available June to July 2027" />
 </p>
 
